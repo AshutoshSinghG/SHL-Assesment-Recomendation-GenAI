@@ -1,0 +1,13 @@
+#!/bin/bash
+# Script to run the FastAPI backend server
+
+# Activate virtual environment if it exists
+if [ -d "venv" ]; then
+    source venv/bin/activate
+elif [ -d "env" ]; then
+    source env/bin/activate
+fi
+
+# Run the server
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+

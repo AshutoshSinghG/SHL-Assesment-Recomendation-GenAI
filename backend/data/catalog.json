@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Java Developer Skills Test",
+    "description": "Assesses Java programming skills, including core concepts, frameworks, and best practices",
+    "url": "https://www.shl.com/solutions/products/product-catalog/java-developer-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Python Developer Skills Test",
+    "description": "Evaluates Python programming abilities, data structures, algorithms, and Python-specific frameworks",
+    "url": "https://www.shl.com/solutions/products/product-catalog/python-developer-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Teamwork & Collaboration Test",
+    "description": "Measures an individual's ability to work effectively in teams and collaborate with others",
+    "url": "https://www.shl.com/solutions/products/product-catalog/teamwork-collaboration/",
+    "type": "Personality & Behavior"
+  },
+  {
+    "name": "Verbal Reasoning Test",
+    "description": "Evaluates ability to understand and analyze written information",
+    "url": "https://www.shl.com/solutions/products/product-catalog/verbal-reasoning/",
+    "type": "Cognitive Ability"
+  },
+  {
+    "name": "Numerical Reasoning Test",
+    "description": "Assesses ability to work with numbers, data, and mathematical concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/numerical-reasoning/",
+    "type": "Cognitive Ability"
+  },
+  {
+    "name": "Leadership Assessment",
+    "description": "Evaluates leadership potential, decision-making, and management capabilities",
+    "url": "https://www.shl.com/solutions/products/product-catalog/leadership-assessment/",
+    "type": "Personality & Behavior"
+  },
+  {
+    "name": "Customer Service Skills Test",
+    "description": "Measures customer service abilities, communication, and problem-solving in service contexts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/customer-service-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Data Analysis Skills Test",
+    "description": "Evaluates data analysis, statistical reasoning, and interpretation of data visualizations",
+    "url": "https://www.shl.com/solutions/products/product-catalog/data-analysis-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Emotional Intelligence Test",
+    "description": "Assesses emotional awareness, empathy, and emotional regulation capabilities",
+    "url": "https://www.shl.com/solutions/products/product-catalog/emotional-intelligence/",
+    "type": "Personality & Behavior"
+  },
+  {
+    "name": "Problem Solving Test",
+    "description": "Evaluates analytical thinking, creative problem-solving, and logical reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/problem-solving/",
+    "type": "Cognitive Ability"
+  },
+  {
+    "name": "Sales Skills Assessment",
+    "description": "Measures sales abilities, negotiation skills, and customer relationship management",
+    "url": "https://www.shl.com/solutions/products/product-catalog/sales-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Adaptability Test",
+    "description": "Assesses ability to adapt to change, handle ambiguity, and remain effective in dynamic environments",
+    "url": "https://www.shl.com/solutions/products/product-catalog/adaptability/",
+    "type": "Personality & Behavior"
+  },
+  {
+    "name": "Abstract Reasoning Test",
+    "description": "Evaluates pattern recognition, logical thinking, and abstract problem-solving abilities",
+    "url": "https://www.shl.com/solutions/products/product-catalog/abstract-reasoning/",
+    "type": "Cognitive Ability"
+  },
+  {
+    "name": "Communication Skills Test",
+    "description": "Measures written and verbal communication abilities, clarity, and effectiveness",
+    "url": "https://www.shl.com/solutions/products/product-catalog/communication-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Time Management Test",
+    "description": "Evaluates ability to prioritize tasks, manage time effectively, and meet deadlines",
+    "url": "https://www.shl.com/solutions/products/product-catalog/time-management/",
+    "type": "Personality & Behavior"
+  },
+  {
+    "name": "SQL Developer Skills Test",
+    "description": "Assesses SQL programming skills, database design, and query optimization",
+    "url": "https://www.shl.com/solutions/products/product-catalog/sql-developer-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "JavaScript Developer Skills Test",
+    "description": "Evaluates JavaScript programming abilities, frameworks, and web development skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/javascript-developer-skills/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Project Management Assessment",
+    "description": "Measures project planning, organization, and execution capabilities",
+    "url": "https://www.shl.com/solutions/products/product-catalog/project-management/",
+    "type": "Knowledge & Skills"
+  },
+  {
+    "name": "Critical Thinking Test",
+    "description": "Evaluates ability to analyze information, evaluate arguments, and make sound decisions",
+    "url": "https://www.shl.com/solutions/products/product-catalog/critical-thinking/",
+    "type": "Cognitive Ability"
+  },
+  {
+    "name": "Stress Management Test",
+    "description": "Assesses ability to handle pressure, manage stress, and maintain performance under challenging conditions",
+    "url": "https://www.shl.com/solutions/products/product-catalog/stress-management/",
+    "type": "Personality & Behavior"
+  }
+]
+
