@@ -1,0 +1,138 @@
+================================================================================
+SHL Assessment Recommendation - Evaluation
+================================================================================
+Loading catalog...
+Loading embedding model...
+Loading cached embeddings...
+Loaded 15 assessments
+
+================================================================================
+TRAINING SET EVALUATION
+================================================================================
+Evaluating on training set (K=10)...
+
+1. Query: Based on the JD below recommend me assessment for the Consultant position in my ...
+   Ground truth: 5 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+2. Query: Content Writer required, expert in English and SEO....
+   Ground truth: 5 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+3. Query: Find me 1 hour long assesment for the below job at SHL
+Job Description
+
+ Join a ...
+   Ground truth: 9 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+4. Query: I am hiring for Java developers who can also collaborate effectively with my bus...
+   Ground truth: 5 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+5. Query: I am looking for a COO for my company in China and I want to see if they are cul...
+   Ground truth: 6 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+6. Query: I want to hire a Senior Data Analyst with 5 years of experience and expertise in...
+   Ground truth: 10 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+7. Query: I want to hire new graduates for a sales role in my company, the budget is for a...
+   Ground truth: 9 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+8. Query: ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 ...
+   Ground truth: 6 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+9. Query: KEY RESPONSIBITILES:
+
+Manage the sound-scape of the station through appropriate ...
+   Ground truth: 5 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+10. Query: We're looking for a Marketing Manager who can drive Recro’s brand positioning, c...
+   Ground truth: 5 assessments
+   Predicted: 10 assessments
+   Recall@10: 0.000
+
+================================================================================
+Mean Recall@10: 0.0000
+================================================================================
+
+Saved evaluation details to outputs/training_evaluation.csv
+
+================================================================================
+TEST SET PREDICTIONS
+================================================================================
+
+Generating predictions for test set...
+
+1. Processing: Looking to hire mid-level professionals who are proficient in Python, SQL and Ja...
+
+2. Processing: Job Description
+
+ Join a community that is shaping the future of work! 
+
+ SHL, P...
+
+3. Processing: I am hiring for an analyst and wants applications to screen using Cognitive and ...
+
+4. Processing: I have a JD Job Description
+
+ People Science. People Answers  !
+
+Do you love con...
+
+5. Processing: I am new looking for new graduates in my sales team, suggest an 30 min long asse...
+
+6. Processing: For Marketing - Content Writer Position
+
+Department: Marketing
+
+Location: Gurugr...
+
+7. Processing: I want to hire a product manager with 3-4 years of work experience and expertise...
+
+8. Processing: Suggest me an assessment for the JD below Job Description
+
+ Find purpose in each...
+
+9. Processing: I want to hire Customer support executives who are expert in English communicati...
+
+Saved predictions to outputs/test_predictions.csv
+Total rows: 90
+
+Sample predictions:
+                                                Query                                     Assessment_url
+0   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+1   Looking to hire mid-level professionals who ar...  https://www.shl.com/products/product-catalog/p...
+2   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+3   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+4   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+5   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+6   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+7   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+8   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+9   Looking to hire mid-level professionals who ar...  https://www.shl.com/solutions/products/product...
+10  Job Description\n\n Join a community that is s...  https://www.shl.com/solutions/products/product...
+11  Job Description\n\n Join a community that is s...  https://www.shl.com/solutions/products/product...
+12  Job Description\n\n Join a community that is s...  https://www.shl.com/solutions/products/product...
+13  Job Description\n\n Join a community that is s...  https://www.shl.com/solutions/products/product...
+14  Job Description\n\n Join a community that is s...  https://www.shl.com/solutions/products/product...
+
+================================================================================
+EVALUATION COMPLETE
+================================================================================
+Mean Recall@10: 0.0000
+Test predictions saved to: outputs/test_predictions.csv
